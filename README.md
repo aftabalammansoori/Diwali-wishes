@@ -4,7 +4,7 @@ This is a beautifully crafted **Diwali-themed responsive web page** made using *
 
 ## 🌟 Preview
 
-![Diwali Web Page Screenshot](./Screenshot%202025-04-18%20091126.png)
+![Diwali Web Page Screenshot](https://github.com/aftabalammansoori/Diwali-wishes/blob/main/images/Screenshot%202025-04-18%20091126.png)
 
 ## 💡 Features
 
