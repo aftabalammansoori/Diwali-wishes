@@ -20,5 +20,12 @@ This is a beautifully crafted **Diwali-themed responsive web page** made using *
 - **CSS3** – For layout, responsiveness, and beautiful Diwali styles.
 - **JavaScript** – To control the audio player and interactivity (if any).
 
+🪔 Contribution
+Feel free to fork and contribute. Add animations, improve styling, or integrate greeting card download functionality.
 
+📃 License
+This project is open-source and free to use under the MIT License.
+
+Made with 💛 and festive vibes ✨
+Wishing everyone a joyful and prosperous Diwali!
 
